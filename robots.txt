@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kakabiggeryzzz.github.io/al-folio/sitemap.xml
+Sitemap: https://kakabigger.github.io/BUAA_YZZZ/sitemap.xml
